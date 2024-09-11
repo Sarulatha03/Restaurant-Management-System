@@ -1,0 +1,12 @@
+D:\Accord projects\dotnet\Restaurant Project\Restaurant App\Restaurant App\bin\Debug\Restaurant App.exe.config
+D:\Accord projects\dotnet\Restaurant Project\Restaurant App\Restaurant App\bin\Debug\Restaurant App.exe
+D:\Accord projects\dotnet\Restaurant Project\Restaurant App\Restaurant App\bin\Debug\Restaurant App.pdb
+D:\Accord projects\dotnet\Restaurant Project\Restaurant App\Restaurant App\obj\Debug\Restaurant App.csproj.AssemblyReference.cache
+D:\Accord projects\dotnet\Restaurant Project\Restaurant App\Restaurant App\obj\Debug\Restaurant_App.Form1.resources
+D:\Accord projects\dotnet\Restaurant Project\Restaurant App\Restaurant App\obj\Debug\Restaurant_App.Properties.Resources.resources
+D:\Accord projects\dotnet\Restaurant Project\Restaurant App\Restaurant App\obj\Debug\Restaurant App.csproj.GenerateResource.cache
+D:\Accord projects\dotnet\Restaurant Project\Restaurant App\Restaurant App\obj\Debug\Restaurant App.csproj.CoreCompileInputs.cache
+D:\Accord projects\dotnet\Restaurant Project\Restaurant App\Restaurant App\obj\Debug\Restaurant App.exe
+D:\Accord projects\dotnet\Restaurant Project\Restaurant App\Restaurant App\obj\Debug\Restaurant App.pdb
+D:\Accord projects\dotnet\Restaurant Project\Restaurant App\Restaurant App\obj\Debug\Restaurant_App.Form2.resources
+D:\Accord projects\dotnet\Restaurant Project\Restaurant App\Restaurant App\obj\Debug\Restaurant_App.Form3.resources
